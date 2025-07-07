@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek Prasad Subramanian</h1>
-<h3 align="center">🚀 Aspiring Machine Learning Engineer | Front-End Developer | Web3 Explorer</h3>
+<h3 align="center">🚀 MERN stack Developer | Web3 Explorer</h3>
 
 <p align="center">
   <a href="mailto:abishekarru@gmail.com"><img src="https://img.shields.io/badge/Email-abishekarru@gmail.com-red?style=flat-square&logo=gmail"></a>
