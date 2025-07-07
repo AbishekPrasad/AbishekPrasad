@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Abishek Prasad Subramanian</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | MERN Stack Developer | Web3 Enthusiast</h3>
+<h1 align="center">Hi, I'm Abishek Prasad Subramanian</h1>
+<h3 align="center">Machine Learning Enthusiast | MERN Stack Developer | Web3 Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abishek-prasad-subramanian">
@@ -13,13 +13,11 @@
 
 ---
 
-### 🧠 About Me
-
-- 🎓 B.Tech in Information Technology (2026) from Saranathan College of Engineering  
-- 🧠 Enthusiastic about **Machine Learning**, **MERN Stack Development**, and **Blockchain/Web3**  
-- ⚡ Skilled in building intelligent apps with **React.js**, **Node.js**, and **Deep Learning**  
-- 🌱 Currently improving skills in **TensorFlow**, **Smart Energy Systems**, and **Blockchain Integration**  
-- 🤝 Always open to meaningful collaborations and internships
+### About Me
+-  Enthusiastic about **Machine Learning**, **MERN Stack Development**, and **Blockchain/Web3**  
+-  Skilled in building intelligent apps with **React.js**, **Node.js**, and **Deep Learning**  
+-  Currently improving skills in **TensorFlow**, **Smart Energy Systems**, and **Blockchain Integration**  
+-  Always open to meaningful collaborations and internships
 
 ---
 
