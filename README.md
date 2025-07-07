@@ -51,19 +51,3 @@
 ![Infura](https://img.shields.io/badge/Infura-EF3B3B?style=flat&logo=infura)
 
 ---
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishekarru&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abishekarru&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🧭 Let's Connect
-
-- 📩 Mail: [abishekarru@gmail.com](mailto:abishekarru@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abishek-prasad-subramanian](https://www.linkedin.com/in/abishek-prasad-subramanian)
-
-> _“Stay curious, keep building, and never stop learning.”_
